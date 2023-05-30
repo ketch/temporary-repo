@@ -1,3 +1,3 @@
 # temporary-repo
 
-description of the .
+description of.
